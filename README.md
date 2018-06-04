@@ -11,3 +11,6 @@ Steps involved;
     library(shiny)
     runGitHub("TradeShiny", "ramamet")
 
+-------------------
+## Dashboard1
+![p1](https://user-images.githubusercontent.com/16385390/40892882-e4e5f164-679c-11e8-9abe-e72475d6de95.png)
