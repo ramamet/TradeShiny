@@ -20,7 +20,7 @@ All monetary values are in terms of millions of US dollars.
 3. *What countries send to most commodities abroad?*
 4. *Try to compare Terms of Trade ratio [Export/Import] for different countries?*
 
-## Run the Dashboard;
+## Getting started;
 
 'load shinydashboard' directly from github ,
 
@@ -28,16 +28,23 @@ All monetary values are in terms of millions of US dollars.
     runGitHub("TradeShiny", "ramamet")
 
 -------------------
-## Dashboard1
+## Dashboard Preview
+
+### Dashboard1
 ![p1](https://user-images.githubusercontent.com/16385390/40892882-e4e5f164-679c-11e8-9abe-e72475d6de95.png)
 
-## Dashboard2
+### Dashboard2
 ![p2](https://user-images.githubusercontent.com/16385390/40892896-3bd4c81a-679d-11e8-95e3-efb90b939988.png)
 
 ![p3](https://user-images.githubusercontent.com/16385390/40892907-6ff29e7e-679d-11e8-98ac-0831e7d3c8ec.png)
 
-## Dashboard3
+### Dashboard3
 ![p4](https://user-images.githubusercontent.com/16385390/40892912-8dd62cd0-679d-11e8-8f21-81c5da4d11e1.png)
 
-## DataTable
+### DataTable
 ![p5](https://user-images.githubusercontent.com/16385390/40892932-cc4ca728-679d-11e8-9788-137e45f4f328.png)
+
+## Licence
+The MIT License
+
+Copyright (c) 2018 Ramanathan Perumal
